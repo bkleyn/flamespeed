@@ -31,7 +31,7 @@ pip3 install flamespeed
 First, clone Flamespeed using `git`:
 
 ```sh
-git clone https://github.com/flamespeed/cs207-FinalProject.git
+git clone https://github.com/bkleyn/flamespeed.git
 ```
 Then, `cd` to the root folder and run the install command:
 ```sh
